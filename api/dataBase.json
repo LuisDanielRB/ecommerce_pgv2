@@ -1,0 +1,49 @@
+[
+    {
+        "id": "9c6f60ca-859d-4562-b907-d74eab9d4410",
+        "image":"https://i0.wp.com/elfutbolito.mx/wp-content/uploads/2019/04/image-not-found.png?ssl=1",
+        "description": "Concert",
+        "price": 1000,
+        "date": "20-09-2022",
+        "artist": ["TINI","LALI", "PAULO LONDRA", "BAD BUUNY", "DADDY YANKEE"],
+        "place": "River Plate Stadium, CABA",
+        "stock": 20000,
+        "category": ["Music Event"]
+    },
+    {
+        "id": "95bd69e8-412f-422b-9643-9c7239804032",
+        "image":"https://i0.wp.com/elfutbolito.mx/wp-content/uploads/2019/04/image-not-found.png?ssl=1",
+        "description": "The Two Queens",
+        "price": 2500,
+        "date": "24-09-2022",
+        "artist": ["Paula Cantone","Victoria Aragon","Romina Maidana",
+        "Juan Lucero","Guillermo Alfaro"],
+        "place": "Colon Theater, CABA",
+        "stock": 2000,
+        "category": ["Cultural Event","Social Event", "Teather"]
+        
+    },
+    {
+        "id": "6a8f967d-ac82-4697-a8ae-2610d3474399",
+        "image":"https://i0.wp.com/elfutbolito.mx/wp-content/uploads/2019/04/image-not-found.png?ssl=1",
+        "description":"Tennis Match",
+        "price": 4100,
+        "date": "2-10-2022",
+        "artist":["Martin Del Potro","Rafael Nadal"],
+        "place": "Racket CLub, Buenos Aires",
+        "stock": 2300,
+        "category": ["Sporting Event","Social Event"]
+    },
+    {
+        "id": "82a46a2d-d0d0-41d2-a930-9309f89db127",
+        "image":"https://i0.wp.com/elfutbolito.mx/wp-content/uploads/2019/04/image-not-found.png?ssl=1",
+        "description":"Soccer Match",
+        "price": 3500,
+        "date": "6-10-2022",
+        "artist":["Team Boca Jr","Team Estudiantes LP"],
+        "place": "Bombonera Stadium, Buenos Aires",
+        "stock": 54000,
+        "category": ["Sporting Event","Social Event"]
+    }
+]
+
